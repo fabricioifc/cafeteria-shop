@@ -1,0 +1,27 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+/* SELETOR */
+h1 {
+    color: chocolate;
+    background-color: chartreuse;
+}
+
+/* CLASSE */
+.marrom {
+    color: brown;
+    background-color: aqua;
+}
+
+.verde {
+    color: darkcyan;
+    background-color: bisque;
+}
+
+/* ID */
+#inicio {
+    padding: 15px;
+    background-color: black;
+}
